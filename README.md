@@ -55,6 +55,7 @@ Todos os dias usam a mesma escala, da menor mínima à maior máxima da semana. 
 É preciso ter o JDK instalado (versão 11 ou mais nova).
 
 ```
+cd SemanaTemp/src
 javac Semana.java
 java Semana
 ```
